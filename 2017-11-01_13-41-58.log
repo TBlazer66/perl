@@ -1,0 +1,332 @@
+Time is 2017-11-01_13-41-58 
+
+Interface Info:
+================================================================================
+
+                    Device: wlp5s0 
+                     Brand: Intel Corporation PRO/Wireless 5100 AGN [Shiloh] 
+                          : Network Connection
+             Kernel Driver: ifiwlwi
+                      Type: Wireless LAN
+                 Source IP: 192.168.0.3
+                   Gateway: 192.168.0.1
+
+
+Network Info:
+================================================================================
+
+               Internal IP: 192.168.0.3
+                 Device ID: wlp5s0
+                   Gateway: 192.168.0.1
+               External IP: Not Detected
+                       ISP: Not Detected
+                   Country: Not Detected
+                    Region: Not Detected
+                      City: Not Detected
+                  Hostname: bob-ThinkPad-SL510
+                   Reverse: Not Detected
+                    DNS IP: 127.0.1.1
+                  DNS Name: Not Detected
+
+Ping Test:
+================================================================================
+
+               192.168.0.3: fail 
+               192.168.0.1: fail 
+              Not Detected: fail 
+                 127.0.1.1: pass 
+                redhat.com: fail 
+                google.com: fail 
+
+_=/bin/sh
+CLUTTER_IM_MODULE=xim
+COMPIZ_CONFIG_PROFILE=ubuntu
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-2wZxqLSmiT
+DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+DESKTOP_SESSION=ubuntu
+DISPLAY=:0
+GDM_LANG=en_US
+GDMSESSION=ubuntu
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GNOME_KEYRING_CONTROL=
+GNOME_KEYRING_PID=
+GPG_AGENT_INFO=/home/bob/.gnupg/S.gpg-agent:0:1
+GTK2_MODULES=overlay-scrollbar
+GTK_IM_MODULE=ibus
+GTK_MODULES=gail:atk-bridge:unity-gtk-module
+HOME=/home/bob
+IM_CONFIG_PHASE=1
+INSTANCE=
+JOB=dbus
+LANG=en_US.UTF-8
+LANGUAGE=en_US
+LESSCLOSE=/usr/bin/lesspipe %s %s
+LESSOPEN=| /usr/bin/lesspipe %s
+LOGNAME=bob
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+PATH=/home/bob/perl5/bin:/home/bob/bin:/home/bob/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+PERL5LIB=/home/bob/perl5/lib/perl5
+PERL_LOCAL_LIB_ROOT=/home/bob/perl5
+PERL_MB_OPT=--install_base "/home/bob/perl5"
+PERL_MM_OPT=INSTALL_BASE=/home/bob/perl5
+PWD=/home/bob/Desktop/perl
+QT4_IM_MODULE=xim
+QT_ACCESSIBILITY=1
+QT_IM_MODULE=ibus
+QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+QT_QPA_PLATFORMTHEME=appmenu-qt5
+SESSION_MANAGER=local/bob-ThinkPad-SL510:@/tmp/.ICE-unix/1461,unix/bob-ThinkPad-SL510:/tmp/.ICE-unix/1461
+SESSIONTYPE=gnome-session
+SESSION=ubuntu
+SHELL=/bin/bash
+SHLVL=1
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+TERM=xterm-256color
+UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1000/1234
+USER=bob
+VTE_VERSION=4205
+WINDOWID=58725151
+XAUTHORITY=/home/bob/.Xauthority
+XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg
+XDG_CURRENT_DESKTOP=Unity
+XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/bob
+XDG_MENU_PREFIX=gnome-
+XDG_RUNTIME_DIR=/run/user/1000
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+XDG_SEAT=seat0
+XDG_SESSION_DESKTOP=ubuntu
+XDG_SESSION_ID=c2
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+XDG_SESSION_TYPE=x11
+XDG_VTNR=7
+XMODIFIERS=@im=ibus
+-- Logs begin at Sat 2017-10-28 13:04:13 PDT, end at Wed 2017-11-01 13:42:19 PDT. --
+Nov 01 13:41:58 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568918.4164] manager: disable requested (sleeping: no  enabled: yes)
+Nov 01 13:41:58 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568918.4165] manager: disabling...
+Nov 01 13:41:58 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568918.4165] device (enp8s0): state change: unavailable -> unmanaged (reason 'sleeping') [20 10 37]
+Nov 01 13:41:58 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568918.4339] manager: NetworkManager state is now ASLEEP
+Nov 01 13:41:58 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568918.4346] audit: op="networking-control" arg="off" pid=8122 uid=1000 result="success"
+Nov 01 13:41:58 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568918.4350] device (wlp5s0): state change: activated -> deactivating (reason 'sleeping') [100 110 37]
+Nov 01 13:41:58 bob-ThinkPad-SL510 whoopsie[1145]: [13:41:58] offline
+Nov 01 13:41:58 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568918.5187] device (wlp5s0): state change: deactivating -> disconnected (reason 'sleeping') [110 30 37]
+Nov 01 13:41:58 bob-ThinkPad-SL510 avahi-daemon[863]: Withdrawing address record for 2601:1c2:4a01:7d0:7143:1d7f:2d3:ba4 on wlp5s0.
+Nov 01 13:41:58 bob-ThinkPad-SL510 gnome-session[1461]: (deja-dup-monitor:2296): GLib-CRITICAL **: Source ID 16091 was not found when attempting to remove it
+Nov 01 13:41:58 bob-ThinkPad-SL510 avahi-daemon[863]: Leaving mDNS multicast group on interface wlp5s0.IPv6 with address 2601:1c2:4a01:7d0:7143:1d7f:2d3:ba4.
+Nov 01 13:41:58 bob-ThinkPad-SL510 avahi-daemon[863]: Joining mDNS multicast group on interface wlp5s0.IPv6 with address 2601:1c2:4a01:7d0:6277:bfba:cab2:44ed.
+Nov 01 13:41:58 bob-ThinkPad-SL510 avahi-daemon[863]: Withdrawing address record for 2601:1c2:4a01:7d0:6277:bfba:cab2:44ed on wlp5s0.
+Nov 01 13:41:58 bob-ThinkPad-SL510 avahi-daemon[863]: Leaving mDNS multicast group on interface wlp5s0.IPv6 with address 2601:1c2:4a01:7d0:6277:bfba:cab2:44ed.
+Nov 01 13:41:58 bob-ThinkPad-SL510 avahi-daemon[863]: Joining mDNS multicast group on interface wlp5s0.IPv6 with address fe80::2c44:46e7:f02c:9d07.
+Nov 01 13:41:58 bob-ThinkPad-SL510 avahi-daemon[863]: Registering new address record for fe80::2c44:46e7:f02c:9d07 on wlp5s0.*.
+Nov 01 13:41:58 bob-ThinkPad-SL510 avahi-daemon[863]: Withdrawing address record for fe80::2c44:46e7:f02c:9d07 on wlp5s0.
+Nov 01 13:41:58 bob-ThinkPad-SL510 avahi-daemon[863]: Leaving mDNS multicast group on interface wlp5s0.IPv6 with address fe80::2c44:46e7:f02c:9d07.
+Nov 01 13:41:58 bob-ThinkPad-SL510 avahi-daemon[863]: Interface wlp5s0.IPv6 no longer relevant for mDNS.
+Nov 01 13:41:58 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568918.5616] dhcp4 (wlp5s0): canceled DHCP transaction, DHCP client pid 5159
+Nov 01 13:41:58 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568918.5617] dhcp4 (wlp5s0): state changed bound -> done
+Nov 01 13:41:58 bob-ThinkPad-SL510 avahi-daemon[863]: Withdrawing address record for 192.168.0.3 on wlp5s0.
+Nov 01 13:41:58 bob-ThinkPad-SL510 avahi-daemon[863]: Leaving mDNS multicast group on interface wlp5s0.IPv4 with address 192.168.0.3.
+Nov 01 13:41:58 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568918.5643] dns-mgr: Writing DNS information to /sbin/resolvconf
+Nov 01 13:41:58 bob-ThinkPad-SL510 dnsmasq[1695]: setting upstream servers from DBus
+Nov 01 13:41:58 bob-ThinkPad-SL510 dnsmasq[1695]: using nameserver 2001:558:feed::1#53(via wlp5s0)
+Nov 01 13:41:58 bob-ThinkPad-SL510 dnsmasq[1695]: using nameserver 2001:558:feed::2#53(via wlp5s0)
+Nov 01 13:41:58 bob-ThinkPad-SL510 kernel: wlp5s0: deauthenticating from bc:64:4b:9d:ad:6d by local choice (Reason: 3=DEAUTH_LEAVING)
+Nov 01 13:41:58 bob-ThinkPad-SL510 wpa_supplicant[993]: wlp5s0: CTRL-EVENT-DISCONNECTED bssid=bc:64:4b:9d:ad:6d reason=3 locally_generated=1
+Nov 01 13:41:58 bob-ThinkPad-SL510 avahi-daemon[863]: Interface wlp5s0.IPv4 no longer relevant for mDNS.
+Nov 01 13:41:58 bob-ThinkPad-SL510 whoopsie[1145]: [13:41:58] Cannot reach: https://daisy.ubuntu.com
+Nov 01 13:41:58 bob-ThinkPad-SL510 wpa_supplicant[993]: wlp5s0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+Nov 01 13:41:58 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568918.6277] dns-mgr: Writing DNS information to /sbin/resolvconf
+Nov 01 13:41:58 bob-ThinkPad-SL510 dnsmasq[1695]: setting upstream servers from DBus
+Nov 01 13:41:58 bob-ThinkPad-SL510 dbus[843]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 01 13:41:58 bob-ThinkPad-SL510 NetworkManager[855]: <warn>  [1509568918.6428] sup-iface[0x27dc580,wlp5s0]: connection disconnected (reason -3)
+Nov 01 13:41:58 bob-ThinkPad-SL510 systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 01 13:41:58 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568918.6486] device (wlp5s0): supplicant interface state: completed -> disconnected
+Nov 01 13:41:58 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568918.6526] device (wlp5s0): state change: disconnected -> unmanaged (reason 'sleeping') [30 10 37]
+Nov 01 13:41:58 bob-ThinkPad-SL510 whoopsie[1145]: [13:41:58] Cannot reach: https://daisy.ubuntu.com
+Nov 01 13:41:58 bob-ThinkPad-SL510 dbus[843]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 01 13:41:58 bob-ThinkPad-SL510 systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 01 13:41:58 bob-ThinkPad-SL510 nm-dispatcher[8200]: req:1 'down' [wlp5s0]: new request (1 scripts)
+Nov 01 13:41:58 bob-ThinkPad-SL510 nm-dispatcher[8200]: req:1 'down' [wlp5s0]: start running ordered scripts...
+Nov 01 13:41:58 bob-ThinkPad-SL510 wpa_supplicant[993]: nl80211: deinit ifname=wlp5s0 disabled_11b_rates=0
+Nov 01 13:42:07 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568927.9015] manager: enable requested (sleeping: no  enabled: no)
+Nov 01 13:42:07 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568927.9016] manager: re-enabling...
+Nov 01 13:42:07 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568927.9016] device (wlp5s0): state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+Nov 01 13:42:07 bob-ThinkPad-SL510 kernel: IPv6: ADDRCONF(NETDEV_UP): wlp5s0: link is not ready
+Nov 01 13:42:07 bob-ThinkPad-SL510 kernel: iwlwifi 0000:05:00.0: L1 Enabled - LTR Disabled
+Nov 01 13:42:07 bob-ThinkPad-SL510 kernel: iwlwifi 0000:05:00.0: L1 Enabled - LTR Disabled
+Nov 01 13:42:07 bob-ThinkPad-SL510 kernel: iwlwifi 0000:05:00.0: Radio type=0x1-0x2-0x0
+Nov 01 13:42:08 bob-ThinkPad-SL510 kernel: iwlwifi 0000:05:00.0: L1 Enabled - LTR Disabled
+Nov 01 13:42:08 bob-ThinkPad-SL510 kernel: iwlwifi 0000:05:00.0: L1 Enabled - LTR Disabled
+Nov 01 13:42:08 bob-ThinkPad-SL510 kernel: iwlwifi 0000:05:00.0: Radio type=0x1-0x2-0x0
+Nov 01 13:42:08 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568928.0551] device (enp8s0): state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+Nov 01 13:42:08 bob-ThinkPad-SL510 kernel: IPv6: ADDRCONF(NETDEV_UP): wlp5s0: link is not ready
+Nov 01 13:42:08 bob-ThinkPad-SL510 kernel: IPv6: ADDRCONF(NETDEV_UP): enp8s0: link is not ready
+Nov 01 13:42:08 bob-ThinkPad-SL510 kernel: r8169 0000:08:00.0 enp8s0: link down
+Nov 01 13:42:08 bob-ThinkPad-SL510 kernel: IPv6: ADDRCONF(NETDEV_UP): enp8s0: link is not ready
+Nov 01 13:42:08 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568928.1222] manager: NetworkManager state is now DISCONNECTED
+Nov 01 13:42:08 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568928.1224] audit: op="networking-control" arg="on" pid=8258 uid=1000 result="success"
+Nov 01 13:42:08 bob-ThinkPad-SL510 wpa_supplicant[993]: dbus: wpa_dbus_get_object_properties: failed to get object properties: (none) none
+Nov 01 13:42:08 bob-ThinkPad-SL510 wpa_supplicant[993]: dbus: Failed to construct signal
+Nov 01 13:42:08 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568928.1895] device (wlp5s0): supplicant interface state: starting -> ready
+Nov 01 13:42:08 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568928.1900] device (wlp5s0): state change: unavailable -> disconnected (reason 'supplicant-available') [20 30 42]
+Nov 01 13:42:08 bob-ThinkPad-SL510 kernel: IPv6: ADDRCONF(NETDEV_UP): wlp5s0: link is not ready
+Nov 01 13:42:11 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568931.2529] device (wlp5s0): supplicant interface state: ready -> inactive
+Nov 01 13:42:11 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568931.2938] policy: auto-activating connection 'SBG6900AC-C1177-5G'
+Nov 01 13:42:11 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568931.2998] device (wlp5s0): Activation: starting connection 'SBG6900AC-C1177-5G' (b118e181-80eb-417e-9bc2-7e4d094d69b5)
+Nov 01 13:42:11 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568931.3019] device (wlp5s0): state change: disconnected -> prepare (reason 'none') [30 40 0]
+Nov 01 13:42:11 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568931.3040] manager: NetworkManager state is now CONNECTING
+Nov 01 13:42:11 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568931.3069] device (wlp5s0): state change: prepare -> config (reason 'none') [40 50 0]
+Nov 01 13:42:11 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568931.3216] device (wlp5s0): Activation: (wifi) access point 'SBG6900AC-C1177-5G' has security, but secrets are required.
+Nov 01 13:42:11 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568931.3217] device (wlp5s0): state change: config -> need-auth (reason 'none') [50 60 0]
+Nov 01 13:42:11 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568931.3279] device (wlp5s0): state change: need-auth -> prepare (reason 'none') [60 40 0]
+Nov 01 13:42:11 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568931.3294] device (wlp5s0): state change: prepare -> config (reason 'none') [40 50 0]
+Nov 01 13:42:11 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568931.3297] device (wlp5s0): Activation: (wifi) connection 'SBG6900AC-C1177-5G' has security, and secrets exist.  No new secrets needed.
+Nov 01 13:42:11 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568931.3298] Config: added 'ssid' value 'SBG6900AC-C1177-5G'
+Nov 01 13:42:11 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568931.3298] Config: added 'scan_ssid' value '1'
+Nov 01 13:42:11 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568931.3299] Config: added 'key_mgmt' value 'WPA-PSK'
+Nov 01 13:42:11 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568931.3301] Config: added 'auth_alg' value 'OPEN'
+Nov 01 13:42:11 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568931.3301] Config: added 'psk' value '<omitted>'
+Nov 01 13:42:11 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568931.3360] sup-iface[0x28264d0,wlp5s0]: config: set interface ap_scan to 1
+Nov 01 13:42:11 bob-ThinkPad-SL510 gnome-session[1461]: (nm-applet:1610): nm-applet-CRITICAL **: get_menu_item_for_ap: assertion 'dup_data.hash != NULL' failed
+Nov 01 13:42:11 bob-ThinkPad-SL510 gnome-session[1461]: (nm-applet:1610): nm-applet-CRITICAL **: get_menu_item_for_ap: assertion 'dup_data.hash != NULL' failed
+Nov 01 13:42:11 bob-ThinkPad-SL510 gnome-session[1461]: (nm-applet:1610): nm-applet-CRITICAL **: get_menu_item_for_ap: assertion 'dup_data.hash != NULL' failed
+Nov 01 13:42:11 bob-ThinkPad-SL510 gnome-session[1461]: (nm-applet:1610): nm-applet-CRITICAL **: get_menu_item_for_ap: assertion 'dup_data.hash != NULL' failed
+Nov 01 13:42:11 bob-ThinkPad-SL510 gnome-session[1461]: (nm-applet:1610): nm-applet-CRITICAL **: get_menu_item_for_ap: assertion 'dup_data.hash != NULL' failed
+Nov 01 13:42:11 bob-ThinkPad-SL510 gnome-session[1461]: (nm-applet:1610): nm-applet-CRITICAL **: get_menu_item_for_ap: assertion 'dup_data.hash != NULL' failed
+Nov 01 13:42:11 bob-ThinkPad-SL510 gnome-session[1461]: (nm-applet:1610): nm-applet-CRITICAL **: get_menu_item_for_ap: assertion 'dup_data.hash != NULL' failed
+Nov 01 13:42:11 bob-ThinkPad-SL510 gnome-session[1461]: (nm-applet:1610): nm-applet-CRITICAL **: get_menu_item_for_ap: assertion 'dup_data.hash != NULL' failed
+Nov 01 13:42:14 bob-ThinkPad-SL510 wpa_supplicant[993]: wlp5s0: SME: Trying to authenticate with bc:64:4b:9d:ad:6d (SSID='SBG6900AC-C1177-5G' freq=5745 MHz)
+Nov 01 13:42:14 bob-ThinkPad-SL510 kernel: wlp5s0: authenticate with bc:64:4b:9d:ad:6d
+Nov 01 13:42:14 bob-ThinkPad-SL510 wpa_supplicant[993]: wlp5s0: Trying to associate with bc:64:4b:9d:ad:6d (SSID='SBG6900AC-C1177-5G' freq=5745 MHz)
+Nov 01 13:42:14 bob-ThinkPad-SL510 kernel: wlp5s0: send auth to bc:64:4b:9d:ad:6d (try 1/3)
+Nov 01 13:42:14 bob-ThinkPad-SL510 kernel: wlp5s0: authenticated
+Nov 01 13:42:14 bob-ThinkPad-SL510 kernel: wlp5s0: associate with bc:64:4b:9d:ad:6d (try 1/3)
+Nov 01 13:42:14 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568934.4426] device (wlp5s0): supplicant interface state: inactive -> authenticating
+Nov 01 13:42:14 bob-ThinkPad-SL510 kernel: wlp5s0: RX AssocResp from bc:64:4b:9d:ad:6d (capab=0x1011 status=0 aid=1)
+Nov 01 13:42:14 bob-ThinkPad-SL510 kernel: wlp5s0: associated
+Nov 01 13:42:14 bob-ThinkPad-SL510 kernel: IPv6: ADDRCONF(NETDEV_CHANGE): wlp5s0: link becomes ready
+Nov 01 13:42:14 bob-ThinkPad-SL510 wpa_supplicant[993]: wlp5s0: Associated with bc:64:4b:9d:ad:6d
+Nov 01 13:42:14 bob-ThinkPad-SL510 kernel: wlp5s0: Limiting TX power to 30 (30 - 0) dBm as advertised by bc:64:4b:9d:ad:6d
+Nov 01 13:42:14 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568934.4720] device (wlp5s0): supplicant interface state: authenticating -> associating
+Nov 01 13:42:14 bob-ThinkPad-SL510 wpa_supplicant[993]: wlp5s0: WPA: Key negotiation completed with bc:64:4b:9d:ad:6d [PTK=CCMP GTK=CCMP]
+Nov 01 13:42:14 bob-ThinkPad-SL510 wpa_supplicant[993]: wlp5s0: CTRL-EVENT-CONNECTED - Connection to bc:64:4b:9d:ad:6d completed [id=0 id_str=]
+Nov 01 13:42:14 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568934.4839] device (wlp5s0): supplicant interface state: associating -> associated
+Nov 01 13:42:14 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568934.4874] device (wlp5s0): supplicant interface state: associated -> 4-way handshake
+Nov 01 13:42:14 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568934.4885] device (wlp5s0): supplicant interface state: 4-way handshake -> completed
+Nov 01 13:42:14 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568934.4888] device (wlp5s0): Activation: (wifi) Stage 2 of 5 (Device Configure) successful.  Connected to wireless network 'SBG6900AC-C1177-5G'.
+Nov 01 13:42:14 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568934.4899] device (wlp5s0): state change: config -> ip-config (reason 'none') [50 70 0]
+Nov 01 13:42:14 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568934.4912] dhcp4 (wlp5s0): activation: beginning transaction (timeout in 45 seconds)
+Nov 01 13:42:14 bob-ThinkPad-SL510 wpa_supplicant[993]: wlp5s0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=US
+Nov 01 13:42:14 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568934.4980] dhcp4 (wlp5s0): dhclient started with pid 8272
+Nov 01 13:42:14 bob-ThinkPad-SL510 gnome-session[1461]: (nm-applet:1610): nm-applet-CRITICAL **: get_menu_item_for_ap: assertion 'dup_data.hash != NULL' failed
+Nov 01 13:42:14 bob-ThinkPad-SL510 dhclient[8272]: DHCPREQUEST of 192.168.0.3 on wlp5s0 to 255.255.255.255 port 67 (xid=0x645b29f8)
+Nov 01 13:42:15 bob-ThinkPad-SL510 dhclient[8272]: DHCPACK of 192.168.0.3 from 192.168.0.1
+Nov 01 13:42:15 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568935.5752]   address 192.168.0.3
+Nov 01 13:42:15 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568935.5756]   plen 24 (255.255.255.0)
+Nov 01 13:42:15 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568935.5759]   gateway 192.168.0.1
+Nov 01 13:42:15 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568935.5761]   server identifier 192.168.0.1
+Nov 01 13:42:15 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568935.5764]   lease time 3600
+Nov 01 13:42:15 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568935.5766]   nameserver '75.75.75.75'
+Nov 01 13:42:15 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568935.5768]   nameserver '75.75.76.76'
+Nov 01 13:42:15 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568935.5771]   domain name 'hsd1.wa.comcast.net.'
+Nov 01 13:42:15 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568935.5773] dhcp4 (wlp5s0): state changed unknown -> bound
+Nov 01 13:42:15 bob-ThinkPad-SL510 avahi-daemon[863]: Joining mDNS multicast group on interface wlp5s0.IPv4 with address 192.168.0.3.
+Nov 01 13:42:15 bob-ThinkPad-SL510 avahi-daemon[863]: New relevant interface wlp5s0.IPv4 for mDNS.
+Nov 01 13:42:15 bob-ThinkPad-SL510 avahi-daemon[863]: Registering new address record for 192.168.0.3 on wlp5s0.IPv4.
+Nov 01 13:42:15 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568935.5913] device (wlp5s0): state change: ip-config -> ip-check (reason 'none') [70 80 0]
+Nov 01 13:42:15 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568935.6043] device (wlp5s0): state change: ip-check -> secondaries (reason 'none') [80 90 0]
+Nov 01 13:42:15 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568935.6098] device (wlp5s0): state change: secondaries -> activated (reason 'none') [90 100 0]
+Nov 01 13:42:15 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568935.6114] manager: NetworkManager state is now CONNECTED_LOCAL
+Nov 01 13:42:15 bob-ThinkPad-SL510 dhclient[8272]: bound to 192.168.0.3 -- renewal in 1434 seconds.
+Nov 01 13:42:15 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568935.7074] manager: NetworkManager state is now CONNECTED_GLOBAL
+Nov 01 13:42:15 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568935.7109] policy: set 'SBG6900AC-C1177-5G' (wlp5s0) as default for IPv4 routing and DNS
+Nov 01 13:42:15 bob-ThinkPad-SL510 dnsmasq[1695]: setting upstream servers from DBus
+Nov 01 13:42:15 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568935.7113] dns-mgr: Writing DNS information to /sbin/resolvconf
+Nov 01 13:42:15 bob-ThinkPad-SL510 dnsmasq[1695]: using nameserver 75.75.75.75#53(via wlp5s0)
+Nov 01 13:42:15 bob-ThinkPad-SL510 dnsmasq[1695]: using nameserver 75.75.76.76#53(via wlp5s0)
+Nov 01 13:42:15 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568935.9365] device (wlp5s0): Activation: successful, device activated.
+Nov 01 13:42:15 bob-ThinkPad-SL510 dbus[843]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 01 13:42:15 bob-ThinkPad-SL510 systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 01 13:42:15 bob-ThinkPad-SL510 whoopsie[1145]: [13:42:15] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/13
+Nov 01 13:42:15 bob-ThinkPad-SL510 whoopsie[1145]: [13:42:15] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/13
+Nov 01 13:42:15 bob-ThinkPad-SL510 whoopsie[1145]: [13:42:15] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/13
+Nov 01 13:42:15 bob-ThinkPad-SL510 whoopsie[1145]: [13:42:15] online
+Nov 01 13:42:15 bob-ThinkPad-SL510 dbus[843]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 01 13:42:15 bob-ThinkPad-SL510 nm-dispatcher[8327]: req:1 'up' [wlp5s0]: new request (1 scripts)
+Nov 01 13:42:15 bob-ThinkPad-SL510 nm-dispatcher[8327]: req:1 'up' [wlp5s0]: start running ordered scripts...
+Nov 01 13:42:15 bob-ThinkPad-SL510 systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 01 13:42:16 bob-ThinkPad-SL510 gnome-session[1461]: (deja-dup-monitor:2296): GLib-CRITICAL **: Source ID 16091 was not found when attempting to remove it
+Nov 01 13:42:16 bob-ThinkPad-SL510 avahi-daemon[863]: Joining mDNS multicast group on interface wlp5s0.IPv6 with address fe80::2c44:46e7:f02c:9d07.
+Nov 01 13:42:16 bob-ThinkPad-SL510 avahi-daemon[863]: New relevant interface wlp5s0.IPv6 for mDNS.
+Nov 01 13:42:16 bob-ThinkPad-SL510 avahi-daemon[863]: Registering new address record for fe80::2c44:46e7:f02c:9d07 on wlp5s0.*.
+Nov 01 13:42:16 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568936.8962] dhcp6 (wlp5s0): activation: beginning transaction (timeout in 45 seconds)
+Nov 01 13:42:16 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568936.8991] dhcp6 (wlp5s0): dhclient started with pid 8433
+Nov 01 13:42:16 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568936.9039] policy: set 'SBG6900AC-C1177-5G' (wlp5s0) as default for IPv6 routing and DNS
+Nov 01 13:42:16 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568936.9043] dns-mgr: Writing DNS information to /sbin/resolvconf
+Nov 01 13:42:16 bob-ThinkPad-SL510 dnsmasq[1695]: setting upstream servers from DBus
+Nov 01 13:42:16 bob-ThinkPad-SL510 dnsmasq[1695]: using nameserver 75.75.75.75#53(via wlp5s0)
+Nov 01 13:42:16 bob-ThinkPad-SL510 dnsmasq[1695]: using nameserver 75.75.76.76#53(via wlp5s0)
+Nov 01 13:42:16 bob-ThinkPad-SL510 dnsmasq[1695]: using nameserver 2001:558:feed::1#53(via wlp5s0)
+Nov 01 13:42:16 bob-ThinkPad-SL510 dnsmasq[1695]: using nameserver 2001:558:feed::2#53(via wlp5s0)
+Nov 01 13:42:17 bob-ThinkPad-SL510 dhclient[8433]: XMT: Confirm on wlp5s0, interval 1060ms.
+Nov 01 13:42:17 bob-ThinkPad-SL510 dhclient[8433]: RCV: Reply message on wlp5s0 from fe80::be64:4bff:fe9d:ad6b.
+Nov 01 13:42:17 bob-ThinkPad-SL510 dhclient[8433]: message status code Success.
+Nov 01 13:42:17 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568937.6681]   valid_lft 3600
+Nov 01 13:42:17 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568937.6686]   preferred_lft 1800
+Nov 01 13:42:17 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568937.6686]   address 2601:1c2:4a01:7d0::1
+Nov 01 13:42:17 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568937.6687]   nameserver '2001:558:feed::1'
+Nov 01 13:42:17 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568937.6687]   nameserver '2001:558:feed::2'
+Nov 01 13:42:17 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568937.6687] dhcp6 (wlp5s0): state changed unknown -> bound, event ID="d6:37:21:ce|1509510753"
+Nov 01 13:42:17 bob-ThinkPad-SL510 dhclient[8433]: PRC: Rebinding lease on wlp5s0.
+Nov 01 13:42:17 bob-ThinkPad-SL510 nm-dispatcher[8327]: req:2 'dhcp6-change' [wlp5s0]: new request (1 scripts)
+Nov 01 13:42:17 bob-ThinkPad-SL510 nm-dispatcher[8327]: req:2 'dhcp6-change' [wlp5s0]: start running ordered scripts...
+Nov 01 13:42:17 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568937.6941] dhcp6 (wlp5s0): state changed bound -> unknown
+Nov 01 13:42:17 bob-ThinkPad-SL510 dhclient[8433]: PRC: Address 2601:1c2:4a01:7d0::1 depreferred.
+Nov 01 13:42:17 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568937.7003] dhcp6 (wlp5s0): state changed unknown -> expire
+Nov 01 13:42:17 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568937.7012] dhcp6 (wlp5s0): canceled DHCP transaction, DHCP client pid 8433
+Nov 01 13:42:17 bob-ThinkPad-SL510 NetworkManager[855]: <info>  [1509568937.7012] dhcp6 (wlp5s0): state changed expire -> done
+Nov 01 13:42:18 bob-ThinkPad-SL510 avahi-daemon[863]: Leaving mDNS multicast group on interface wlp5s0.IPv6 with address fe80::2c44:46e7:f02c:9d07.
+Nov 01 13:42:18 bob-ThinkPad-SL510 avahi-daemon[863]: Joining mDNS multicast group on interface wlp5s0.IPv6 with address 2601:1c2:4a01:7d0:7143:1d7f:2d3:ba4.
+Nov 01 13:42:18 bob-ThinkPad-SL510 avahi-daemon[863]: Registering new address record for 2601:1c2:4a01:7d0:7143:1d7f:2d3:ba4 on wlp5s0.*.
+Nov 01 13:42:18 bob-ThinkPad-SL510 avahi-daemon[863]: Withdrawing address record for fe80::2c44:46e7:f02c:9d07 on wlp5s0.
+Nov 01 13:42:18 bob-ThinkPad-SL510 avahi-daemon[863]: Registering new address record for 2601:1c2:4a01:7d0:6277:bfba:cab2:44ed on wlp5s0.*.
+Nov 01 13:42:19 bob-ThinkPad-SL510 avahi-daemon[863]: Registering new address record for 2601:1c2:4a01:7d0::1 on wlp5s0.*.
+
+Interface Info:
+================================================================================
+
+                    Device: wlp5s0 
+                     Brand: Intel Corporation PRO/Wireless 5100 AGN [Shiloh] 
+                          : Network Connection
+             Kernel Driver: ifiwlwi
+                      Type: Wireless LAN
+                 Source IP: 192.168.0.3
+                   Gateway: 192.168.0.1
+
+
+Network Info:
+================================================================================
+
+               Internal IP: 192.168.0.3
+                 Device ID: wlp5s0
+                   Gateway: 192.168.0.1
+               External IP: 76.105.207.102
+                       ISP: AS7922 Comcast Cable Communications, LLC
+                   Country: US
+                    Region: Washington
+                      City: Vancouver
+                  Hostname: bob-ThinkPad-SL510
+                   Reverse: c-76-105-207-102.hsd1.wa.comcast.net.
+                    DNS IP: 8.8.8.8
+                  DNS Name: google-public-dns-a.google.com.
+
+Ping Test:
+================================================================================
+
+               192.168.0.3: pass 
+               192.168.0.1: pass 
+            76.105.207.102: pass 
+                   8.8.8.8: pass 
+                redhat.com: pass 
+                google.com: pass 
+
