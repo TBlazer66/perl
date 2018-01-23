@@ -1,0 +1,78 @@
+#!/usr/bin/perl
+use strict;
+use warnings;
+use feature qw/say/;
+use File::Spec;
+use File::Basename;
+
+my ($number, $name) = @ARGV;
+ 
+if (not defined $name) {
+  warn "No name\n";
+}
+
+my %M; #primary data structure
+my $ref_to_M=\%M;
+my $word = "cam";
+say "word is $word";
+my $curdir = File::Spec->curdir();
+$M{"start_dir"}=$curdir;
+
+my $name2 = basename($0);
+say "name2 is $name2";
+open( my $fh, '>>', '1.required' );
+
+
+use Shell::Guess;
+my $shell = Shell::Guess->login_shell('bob');
+print $shell->name, "\n";
+if($shell->is_c) {
+  print "setenv FOO bar\n";
+} elsif($shell->is_bourne) {
+  print "export EDITOR=gedit\n";
+}
+
+use Path::Class;
+use autodie qw' chdir ';
+
+chdir "$ENV{HOME}/Pictures" or die $!; 
+my %L;
+opendir DIR, "." or die $!;
+while ($_=readdir DIR) {
+
+    if ( /^(?<INT>\d+)\.(?<BASEWORD>.+)/ ) {
+        if (( ! exists $L{$+{BASEWORD}} ) || ( $+{INT} > $L{$+{BASEWORD}} )) {
+        $L{$+{BASEWORD}} = $+{INT}
+        }
+    }
+}
+closedir DIR;
+
+use Data::Dumper; print Dumper \%L; 
+
+my $next_int=$L{"$word"}+1;
+my $target_dir = "$next_int.$word";
+say "target dir is $target_dir";
+
+system("[ -d '$target_dir' ]");
+
+# $? >> 8 (or the return value from system >> 8) is 0 on success
+if ($? >> 8)
+{
+    print "does not exist";
+}
+else
+{
+    print "exists";
+}
+
+print "\n";
+
+my $return=mkdir $target_dir, 0700 or warn "makedir failed $!\n";
+say "return is $return";
+chdir "$target_dir";
+say "are we there yet?";
+print $fh "$target_dir\n";
+close $fh;
+say "$target_dir";
+
